@@ -1,7 +1,8 @@
 # Katabatic analysis — offline copy
 
-This folder contains a standalone copy of the Katabatic Python tools and their
-shared Python modules. It does not contain CARRA2 files, derived arrays, maps,
+This folder contains a standalone copy of the Python katabatic winds detection tool and its
+shared Python modules developed during my internship with Haraldur Olafson. 
+It does not contain CARRA2 files, derived arrays, maps,
 or a prebuilt Python environment.
 
 The application can run without an internet connection after its Python
@@ -9,7 +10,7 @@ environment, input data, and Cartopy map assets have been installed locally.
 See [DATA_INSTALLATION.md](./DATA_INSTALLATION.md) for the complete setup and
 transfer procedure.
 
-## Folder layout
+## Structure
 
 - `Scripts Pythons/katabatic/` contains the analysis, validation, and data
   preparation commands.
