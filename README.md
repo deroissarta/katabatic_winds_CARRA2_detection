@@ -79,6 +79,6 @@ before disconnecting from the internet. The preparation script writes them to
 `Data/cartopy/`, which is also the launcher's default `CARTOPY_DATA_DIR`.
 Transfer that directory together with this folder and the required datasets.
 
-
-<img width="1325.1" height="800" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
+## Example of plot
+<img width="600" height="400" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
 Plot of the katabatic fraction for the default settings.
