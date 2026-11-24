@@ -7,6 +7,10 @@ or a prebuilt Python environment.
 
 The plots obtained with this workflow on my personal machine are under : https://drive.google.com/drive/folders/1D0RvBfBBbSjsS8hTrhv_uXF3EkA5So6y?usp=sharing
 
+<img width="1893" height="1477" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
+
+
+
 The application can run without an internet connection after its Python
 environment, input data, and Cartopy map assets have been installed locally.
 See [DATA_INSTALLATION.md](./DATA_INSTALLATION.md) for the complete setup and
