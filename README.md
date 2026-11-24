@@ -5,6 +5,8 @@ shared Python modules developed during my internship with Haraldur Olafson.
 It does not contain CARRA2 files, derived arrays, maps,
 or a prebuilt Python environment.
 
+The plots obtained with this workflow on my personal machine are under : https://drive.google.com/drive/folders/1D0RvBfBBbSjsS8hTrhv_uXF3EkA5So6y?usp=sharing
+
 The application can run without an internet connection after its Python
 environment, input data, and Cartopy map assets have been installed locally.
 See [DATA_INSTALLATION.md](./DATA_INSTALLATION.md) for the complete setup and
