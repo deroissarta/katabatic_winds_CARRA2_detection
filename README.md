@@ -7,11 +7,6 @@ or a prebuilt Python environment.
 
 The plots obtained with this workflow on my personal machine are under : https://drive.google.com/drive/folders/1D0RvBfBBbSjsS8hTrhv_uXF3EkA5So6y?usp=sharing
 
-<img width="1325.1" height="800" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
-
-
-
-
 The application can run without an internet connection after its Python
 environment, input data, and Cartopy map assets have been installed locally.
 See [DATA_INSTALLATION.md](./DATA_INSTALLATION.md) for the complete setup and
@@ -83,3 +78,7 @@ Cartopy's Natural Earth coastlines and land/ocean boundaries must be cached
 before disconnecting from the internet. The preparation script writes them to
 `Data/cartopy/`, which is also the launcher's default `CARTOPY_DATA_DIR`.
 Transfer that directory together with this folder and the required datasets.
+
+
+<img width="1325.1" height="800" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
+Plot of the katabatic fraction for the default settings.
