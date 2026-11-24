@@ -1,0 +1,1 @@
+"""Shared readers, plotting helpers, paths, and cache utilities."""

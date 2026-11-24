@@ -1,0 +1,11 @@
+# Keep local input data, derived arrays, and map caches out of Git.
+/Data/*
+!/Data/README.md
+
+# Exclude generated figures and Python cache files.
+/Figures/
+__pycache__/
+*.py[cod]
+*.nc
+*.npy
+*.npz
