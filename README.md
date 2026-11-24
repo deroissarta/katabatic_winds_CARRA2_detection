@@ -82,4 +82,5 @@ Transfer that directory together with this folder and the required datasets.
 ## Example of plot
 
 Here is the plot of the katabatic fraction for the default settings.
-<img width="600" height="600" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
+
+<img width="600" height="450" alt="katabatic_fraction" src="https://github.com/user-attachments/assets/e19eba39-4719-47e2-8a72-b90648be98b5" />
